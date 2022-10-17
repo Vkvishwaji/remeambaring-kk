@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Mulish&family=Raleway:wght@300&family=Roboto:wght@300&display=swap');
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  font-family: 'Lato', sans-serif;
+
+ }
+ .h-1{
+  margin-top: 109px;
+  color: aliceblue;
+  opacity: 1;
+  position: relative;
+  left: 227px;
+  font-size: 60px;
+ }
+ .logo{
+  position: fixed;
+  margin-top: -5px;
+  margin-left: 15px;
+ }
+ .share-img{
+  position: sticky;
+  right: -705px;
+  margin-top: 20px;
+  margin-right: 15px;
+  color: aliceblue;
+ }
+ .t-1{
+  color: aliceblue;
+  opacity: 1;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+ }
+ .img-1{
+  position: relative;
+  left: 10px;
+  transition-timing-function: ease-in-out;
+ }
+ .btn{
+    position: relative;
+    top: -14px;
+    right: -12px;
+ }
+ .head{
+    opacity: 1;
+ }
+ 
